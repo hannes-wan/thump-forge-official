@@ -5,7 +5,7 @@
 
 > Shape mix-ready bass tone in a native low-latency 12-module standalone rack and DAW VST3 plugin.
 
-Free Community Edition low-latency bass amp simulator and 12-module VST3/standalone effects rack with parallel compression, Vintage SVT preamp, and 5-string BEADG tuner.
+Free Community Edition bass amp sim VST3 software and 12-module standalone effects rack with parallel compression, Vintage SVT preamp, and 5-string BEADG tuner.
 
 Reorder twelve bass-focused modules from parallel compression and four preamp voicings to four-band EQ, cabinet color, and output peak protection. Run it standalone on Windows or Linux, or load the same zero-latency rack as a VST3 plugin.
 
