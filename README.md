@@ -9,18 +9,18 @@ Free Community Edition bass amp sim VST3 software and 12-module standalone effec
 
 Reorder twelve bass-focused modules from parallel compression and four preamp voicings to four-band EQ, cabinet color, and output peak protection. Run it standalone on Windows or Linux, or load the same zero-latency rack as a VST3 plugin.
 
-**Thump Forge Community Edition is free to download and use.** Use the core workflow locally and decide from real output.
+**Thump Forge Community Edition is free to download and use.** Standalone Windows and Linux app, zero-latency VST3 plugin, all twelve bass modules, ten factory voices, 5-string BEADG tuner, Demo riff, and three reusable custom voice slots free forever.
 
 [Download Community Edition](https://hannes-software.com/thump-forge/download/) · [Product guide](https://hannes-software.com/thump-forge/) · [Help](https://hannes-software.com/thump-forge/help/) · [Report a bug](https://github.com/hannes-wan/thump-forge-official/issues/new?template=bug_report.yml)
 
-## Download Thump Forge 0.1.0
+## Download Thump Forge 0.1.1
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [thump-forge-0.1.0-linux-x64.AppImage](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.0/thump-forge-0.1.0-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [thump-forge-0.1.0-linux-x64.deb](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.0/thump-forge-0.1.0-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [thump-forge-0.1.0-linux-x64.rpm](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.0/thump-forge-0.1.0-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [thump-forge-0.1.0-windows-x64-setup.exe](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.0/thump-forge-0.1.0-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [thump-forge-0.1.1-linux-x64.AppImage](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.1/thump-forge-0.1.1-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [thump-forge-0.1.1-linux-x64.deb](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.1/thump-forge-0.1.1-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [thump-forge-0.1.1-linux-x64.rpm](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.1/thump-forge-0.1.1-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [thump-forge-0.1.1-windows-x64-setup.exe](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.1/thump-forge-0.1.1-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/thump-forge/download/).
 
@@ -75,6 +75,9 @@ Practice with the standalone app, Demo riff audition loop, and pre-effects BEADG
 
 ## Community Edition is genuinely useful
 
+- Standalone app & zero-latency VST3
+- All 12 bass modules & 10 voices
+- 5-string tuner & 3 custom slots
 
 Optional licensed workflows are available for people who need the expanded feature set. Licensing details belong on the website; the Community Edition remains the free way to evaluate and use the core product.
 
@@ -151,6 +154,13 @@ Yes. The standalone app includes a built-in Demo riff button in the top bar that
 <summary><strong>Does the built-in tuner track a 5-string bass low B accurately?</strong></summary>
 
 Yes. The built-in Tuner reads the dry instrument input before effects across 30 Hz to 400 Hz with a 3-cent in-tune window and clear B-E-A-D-G reference indicators, making it reliable for both 4-string EADG and 5-string BEADG bass guitars.
+
+</details>
+
+<details>
+<summary><strong>Which Thump Forge installer includes the DAW VST3 plugin?</strong></summary>
+
+Both the Windows x64 direct installer (.exe) and the Microsoft Store edition deploy the standalone app and the zero-latency Windows VST3 plugin, and the Linux x64 DEB, RPM, and AppImage packages include both the standalone bass rig and Linux VST3 support.
 
 </details>
 
