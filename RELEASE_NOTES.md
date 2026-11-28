@@ -1,7 +1,7 @@
 **Thump Forge Community Edition is free to download and use.**
 
-Thump Forge routes direct website purchases straight to its dedicated license page and clarifies Microsoft Store unlock status messaging.
+Thump Forge 0.1.3 polishes the 12-module bass rack and VST3 plugin with precision rotary knob control, right-rail cockpit spacing, full 10-language UI sync, and Store-compliant hosted licensing.
 
-- Pointed the direct purchase action straight to https://hannes-software.com/thump-forge/license/ so Professional and Team checkout opens in one step.
-- Clarified Microsoft Store unlock status messaging when a Store add-on is not yet available for the current build.
-- Community Edition remains free with the standalone low-latency bass rack, DAW VST3 plugin, all 12 modules including parallel compressor and Vintage SVT preamp, live EQ, 5-string tuner, and 3 preset slots; an effective license unlocks unlimited custom presets.
+- Upgrades the unified license-ui-core modal with working hosted-VST3 browser launch on Website Direct and strict host-channel isolation when embedded inside Store hosts.
+- Refines rotary knob drag precision, right-rail Signal flow and Output spacing, and complete 10-language synchronization inside JamLoom and DAWs.
+- Synchronizes Linux, Windows, and macOS Universal installers and Store packages on version 0.1.3.

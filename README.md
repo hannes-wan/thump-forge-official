@@ -1,7 +1,7 @@
 # Thump Forge
 
 [![Community Edition: Free](https://img.shields.io/badge/Community_Edition-Free-16a34a?style=for-the-badge)](https://hannes-software.com/thump-forge/download/)
-[![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/thump-forge/download/) [![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/thump-forge/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/thump-forge/)
+[![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/thump-forge/download/) [![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/thump-forge/download/) [![macOS](https://img.shields.io/badge/macOS-Desktop-64748b?style=flat-square&logo=apple)](https://hannes-software.com/thump-forge/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/thump-forge/)
 
 > Shape mix-ready bass tone in a native low-latency 12-module standalone rack and DAW VST3 plugin.
 
@@ -13,24 +13,15 @@ Reorder twelve bass-focused modules from parallel compression and four preamp vo
 
 [Download Community Edition](https://hannes-software.com/thump-forge/download/) · [Product guide](https://hannes-software.com/thump-forge/) · [Help](https://hannes-software.com/thump-forge/help/) · [Report a bug](https://github.com/hannes-wan/thump-forge-official/issues/new?template=bug_report.yml)
 
-<!-- HANNES_STUDIO_HERO_START -->
-### Hear & See It Live — Zero Subscription, 100% Offline
-
-**Stop paying monthly for studio SVT bass grit — parallel compression, tube preamp, cab response & live EQ (Standalone + VST3).**
-
-[![Watch Interactive Audio A/B Demo](https://img.shields.io/badge/▶_Hear_Live_Audio_A%2FB-Watch_Walkthrough-2563eb?style=for-the-badge)](https://hannes-software.com/watch/thump-forge/?utm_source=github&utm_medium=readme&utm_campaign=thump-forge-hero) [![YouTube Short](https://img.shields.io/badge/YouTube-10s_Ear_Test-dc2626?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/E02pImGbKfA)
-
-[![thump-forge desktop workbench](https://hannes-software.com/assets/thump-forge/screenshots/thump-svt-crunch-01.webp)](https://hannes-software.com/watch/thump-forge/?utm_source=github&utm_medium=readme&utm_campaign=thump-forge-hero)
-<!-- HANNES_STUDIO_HERO_END -->
-
-## Download Thump Forge 0.1.1
+## Download Thump Forge 0.1.3
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [thump-forge-0.1.1-linux-x64.AppImage](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.1/thump-forge-0.1.1-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [thump-forge-0.1.1-linux-x64.deb](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.1/thump-forge-0.1.1-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [thump-forge-0.1.1-linux-x64.rpm](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.1/thump-forge-0.1.1-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [thump-forge-0.1.1-windows-x64-setup.exe](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.1/thump-forge-0.1.1-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [thump-forge-0.1.3-linux-x64.AppImage](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.3/thump-forge-0.1.3-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [thump-forge-0.1.3-linux-x64.deb](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.3/thump-forge-0.1.3-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [thump-forge-0.1.3-linux-x64.rpm](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.3/thump-forge-0.1.3-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| macOS universal | [thump-forge-0.1.3-macos-universal.dmg](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.3/thump-forge-0.1.3-macos-universal.dmg) | macOS disk image |
+| Windows x64 | [thump-forge-0.1.3-windows-x64-setup.exe](https://github.com/hannes-wan/thump-forge-official/releases/download/v0.1.3/thump-forge-0.1.3-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/thump-forge/download/).
 
@@ -38,6 +29,7 @@ Checksums, installation notes, and the complete platform matrix live on the [off
 
 - **Windows:** Windows 10 or Windows 11 on x64.
 - **Linux:** a mainstream x64 distribution with glibc 2.35 or newer, such as Ubuntu 22.04+, Debian 12+, Fedora, or openSUSE (AppImage, DEB, and RPM packages).
+- **macOS:** a current 64-bit macOS release.
 - **Disk space:** a few hundred megabytes free for the application and its bundled resources.
 
 ## Why Thump Forge exists
