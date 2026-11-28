@@ -13,6 +13,16 @@ Reorder twelve bass-focused modules from parallel compression and four preamp vo
 
 [Download Community Edition](https://hannes-software.com/thump-forge/download/) · [Product guide](https://hannes-software.com/thump-forge/) · [Help](https://hannes-software.com/thump-forge/help/) · [Report a bug](https://github.com/hannes-wan/thump-forge-official/issues/new?template=bug_report.yml)
 
+<!-- HANNES_STUDIO_HERO_START -->
+### Hear & See It Live — Zero Subscription, 100% Offline
+
+**Stop paying monthly for studio SVT bass grit — parallel compression, tube preamp, cab response & live EQ (Standalone + VST3).**
+
+[![Watch Interactive Audio A/B Demo](https://img.shields.io/badge/▶_Hear_Live_Audio_A%2FB-Watch_Walkthrough-2563eb?style=for-the-badge)](https://hannes-software.com/watch/thump-forge/?utm_source=github&utm_medium=readme&utm_campaign=thump-forge-hero) [![YouTube Short](https://img.shields.io/badge/YouTube-10s_Ear_Test-dc2626?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/E02pImGbKfA)
+
+[![thump-forge desktop workbench](https://hannes-software.com/assets/thump-forge/screenshots/thump-svt-crunch-01.webp)](https://hannes-software.com/watch/thump-forge/?utm_source=github&utm_medium=readme&utm_campaign=thump-forge-hero)
+<!-- HANNES_STUDIO_HERO_END -->
+
 ## Download Thump Forge 0.1.3
 
 | Platform | Package | Use it when |
